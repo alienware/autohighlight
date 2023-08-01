@@ -1,6 +1,6 @@
-Keras==2.12
-opencv-python-headless==3.4.18.*
-moviepy==0.2.3.5
+Keras
+opencv-python-headless
+moviepy
 h5py
-imageio==2.5.0
-tensorflow==2.12.1
+imageio
+tensorflow

@@ -1,0 +1,9 @@
+name: autohighlight
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - cudatoolkit=11.7.0
+  - pip
+  - pip:
+    - nvidia-cudnn-cu11
